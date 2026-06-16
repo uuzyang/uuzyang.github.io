@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>线性代数 on uuzyang</title>
+        <link>https://uuzyang.github.io/categories/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</link>
+        <description>Recent content in 线性代数 on uuzyang</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>uuzyang.</copyright>
+        <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>线性代数入门</title>
+        <link>https://uuzyang.github.io/p/linear-algebra/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/linear-algebra/</guid>
+        <description>&lt;p&gt;线性代数提供了描述空间、变换和方程组的统一工具。&lt;/p&gt;
+&lt;h2 id=&#34;向量&#34;&gt;向量
+&lt;/h2&gt;&lt;p&gt;向量可以表示方向、状态或特征。&lt;/p&gt;
+&lt;h2 id=&#34;矩阵&#34;&gt;矩阵
+&lt;/h2&gt;&lt;p&gt;矩阵可以表示线性变换，也可以表示方程组的系数。&lt;/p&gt;
+&lt;h2 id=&#34;特征值&#34;&gt;特征值
+&lt;/h2&gt;&lt;p&gt;特征值描述一个线性变换在特殊方向上的缩放效果。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

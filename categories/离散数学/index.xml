@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>离散数学 on uuzyang</title>
+        <link>https://uuzyang.github.io/categories/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</link>
+        <description>Recent content in 离散数学 on uuzyang</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>uuzyang.</copyright>
+        <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>离散数学入门</title>
+        <link>https://uuzyang.github.io/p/discrete-math/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/discrete-math/</guid>
+        <description>&lt;p&gt;离散数学处理离散对象，是算法、数据结构、数据库和形式化方法的重要基础。&lt;/p&gt;
+&lt;h2 id=&#34;集合与关系&#34;&gt;集合与关系
+&lt;/h2&gt;&lt;p&gt;集合描述对象的范围，关系描述对象之间的连接。&lt;/p&gt;
+&lt;h2 id=&#34;逻辑&#34;&gt;逻辑
+&lt;/h2&gt;&lt;p&gt;逻辑提供了描述命题和推理规则的工具。&lt;/p&gt;
+&lt;h2 id=&#34;组合&#34;&gt;组合
+&lt;/h2&gt;&lt;p&gt;组合计数用于回答“有多少种可能”的问题。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

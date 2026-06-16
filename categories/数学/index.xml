@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>数学 on uuzyang</title>
+        <link>https://uuzyang.github.io/categories/%E6%95%B0%E5%AD%A6/</link>
+        <description>Recent content in 数学 on uuzyang</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>uuzyang.</copyright>
+        <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>单变量微积分入门</title>
+        <link>https://uuzyang.github.io/p/single-variable-calculus/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/single-variable-calculus/</guid>
+        <description>&lt;img src="https://uuzyang.github.io/p/single-variable-calculus/4.png" alt="Featured image of post 单变量微积分入门" /&gt;&lt;p&gt;单变量微积分研究一元函数的变化与累积。导数刻画局部变化率，积分刻画整体累积量。&lt;/p&gt;
+&lt;h2 id=&#34;导数&#34;&gt;导数
+&lt;/h2&gt;&lt;p&gt;导数可以理解为函数在某一点附近的瞬时变化趋势。&lt;/p&gt;
+&lt;h2 id=&#34;积分&#34;&gt;积分
+&lt;/h2&gt;&lt;p&gt;积分可以理解为把很多微小的量累加起来。&lt;/p&gt;
+&lt;h2 id=&#34;基本定理&#34;&gt;基本定理
+&lt;/h2&gt;&lt;p&gt;微积分基本定理连接了导数和积分，使“变化率”和“累积量”成为同一套语言中的两个方向。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>多变量微积分入门</title>
+        <link>https://uuzyang.github.io/p/multivariable-calculus/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/multivariable-calculus/</guid>
+        <description>&lt;p&gt;多变量微积分研究多个变量共同影响函数值时的变化规律。&lt;/p&gt;
+&lt;h2 id=&#34;偏导数&#34;&gt;偏导数
+&lt;/h2&gt;&lt;p&gt;偏导数表示固定其他变量时，某一个变量方向上的变化率。&lt;/p&gt;
+&lt;h2 id=&#34;梯度&#34;&gt;梯度
+&lt;/h2&gt;&lt;p&gt;梯度指向函数增长最快的方向，它在优化问题中非常常见。&lt;/p&gt;
+&lt;h2 id=&#34;多重积分&#34;&gt;多重积分
+&lt;/h2&gt;&lt;p&gt;多重积分用于计算平面区域或空间区域上的累积量。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>概率论入门</title>
+        <link>https://uuzyang.github.io/p/probability/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/probability/</guid>
+        <description>&lt;p&gt;概率论用于描述不确定性。它不直接消除随机性，而是给随机现象建立可计算的结构。&lt;/p&gt;
+&lt;h2 id=&#34;随机变量&#34;&gt;随机变量
+&lt;/h2&gt;&lt;p&gt;随机变量把随机结果映射成数值，方便进一步分析。&lt;/p&gt;
+&lt;h2 id=&#34;分布&#34;&gt;分布
+&lt;/h2&gt;&lt;p&gt;分布描述随机变量取不同值的可能性。&lt;/p&gt;
+&lt;h2 id=&#34;期望&#34;&gt;期望
+&lt;/h2&gt;&lt;p&gt;期望表示长期平均意义下的结果。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>计算机科学中的数学导论</title>
+        <link>https://uuzyang.github.io/p/math-for-cs-intro/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/math-for-cs-intro/</guid>
+        <description>&lt;p&gt;计算机科学中的数学更像是一套表达问题的语言。它帮助我们把直觉变成定义，把经验变成证明，把程序行为变成可以分析的对象。&lt;/p&gt;
+&lt;h2 id=&#34;证明&#34;&gt;证明
+&lt;/h2&gt;&lt;p&gt;证明用于确认一个结论在所有合法输入上都成立，而不是只在若干样例上看起来正确。&lt;/p&gt;
+&lt;h2 id=&#34;抽象&#34;&gt;抽象
+&lt;/h2&gt;&lt;p&gt;抽象会隐藏细节，只保留问题中真正影响结构的部分。&lt;/p&gt;
+&lt;h2 id=&#34;建模&#34;&gt;建模
+&lt;/h2&gt;&lt;p&gt;建模是把现实问题翻译成集合、函数、图、概率或代数对象的过程。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>离散数学入门</title>
+        <link>https://uuzyang.github.io/p/discrete-math/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/discrete-math/</guid>
+        <description>&lt;p&gt;离散数学处理离散对象，是算法、数据结构、数据库和形式化方法的重要基础。&lt;/p&gt;
+&lt;h2 id=&#34;集合与关系&#34;&gt;集合与关系
+&lt;/h2&gt;&lt;p&gt;集合描述对象的范围，关系描述对象之间的连接。&lt;/p&gt;
+&lt;h2 id=&#34;逻辑&#34;&gt;逻辑
+&lt;/h2&gt;&lt;p&gt;逻辑提供了描述命题和推理规则的工具。&lt;/p&gt;
+&lt;h2 id=&#34;组合&#34;&gt;组合
+&lt;/h2&gt;&lt;p&gt;组合计数用于回答“有多少种可能”的问题。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>线性代数入门</title>
+        <link>https://uuzyang.github.io/p/linear-algebra/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/linear-algebra/</guid>
+        <description>&lt;p&gt;线性代数提供了描述空间、变换和方程组的统一工具。&lt;/p&gt;
+&lt;h2 id=&#34;向量&#34;&gt;向量
+&lt;/h2&gt;&lt;p&gt;向量可以表示方向、状态或特征。&lt;/p&gt;
+&lt;h2 id=&#34;矩阵&#34;&gt;矩阵
+&lt;/h2&gt;&lt;p&gt;矩阵可以表示线性变换，也可以表示方程组的系数。&lt;/p&gt;
+&lt;h2 id=&#34;特征值&#34;&gt;特征值
+&lt;/h2&gt;&lt;p&gt;特征值描述一个线性变换在特殊方向上的缩放效果。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

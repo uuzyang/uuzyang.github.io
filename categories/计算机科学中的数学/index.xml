@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>计算机科学中的数学 on uuzyang</title>
+        <link>https://uuzyang.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6/</link>
+        <description>Recent content in 计算机科学中的数学 on uuzyang</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>uuzyang.</copyright>
+        <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>计算机科学中的数学导论</title>
+        <link>https://uuzyang.github.io/p/math-for-cs-intro/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/math-for-cs-intro/</guid>
+        <description>&lt;p&gt;计算机科学中的数学更像是一套表达问题的语言。它帮助我们把直觉变成定义，把经验变成证明，把程序行为变成可以分析的对象。&lt;/p&gt;
+&lt;h2 id=&#34;证明&#34;&gt;证明
+&lt;/h2&gt;&lt;p&gt;证明用于确认一个结论在所有合法输入上都成立，而不是只在若干样例上看起来正确。&lt;/p&gt;
+&lt;h2 id=&#34;抽象&#34;&gt;抽象
+&lt;/h2&gt;&lt;p&gt;抽象会隐藏细节，只保留问题中真正影响结构的部分。&lt;/p&gt;
+&lt;h2 id=&#34;建模&#34;&gt;建模
+&lt;/h2&gt;&lt;p&gt;建模是把现实问题翻译成集合、函数、图、概率或代数对象的过程。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

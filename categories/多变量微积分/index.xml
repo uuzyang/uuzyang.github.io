@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>多变量微积分 on uuzyang</title>
+        <link>https://uuzyang.github.io/categories/%E5%A4%9A%E5%8F%98%E9%87%8F%E5%BE%AE%E7%A7%AF%E5%88%86/</link>
+        <description>Recent content in 多变量微积分 on uuzyang</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>uuzyang.</copyright>
+        <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E5%A4%9A%E5%8F%98%E9%87%8F%E5%BE%AE%E7%A7%AF%E5%88%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>多变量微积分入门</title>
+        <link>https://uuzyang.github.io/p/multivariable-calculus/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/multivariable-calculus/</guid>
+        <description>&lt;p&gt;多变量微积分研究多个变量共同影响函数值时的变化规律。&lt;/p&gt;
+&lt;h2 id=&#34;偏导数&#34;&gt;偏导数
+&lt;/h2&gt;&lt;p&gt;偏导数表示固定其他变量时，某一个变量方向上的变化率。&lt;/p&gt;
+&lt;h2 id=&#34;梯度&#34;&gt;梯度
+&lt;/h2&gt;&lt;p&gt;梯度指向函数增长最快的方向，它在优化问题中非常常见。&lt;/p&gt;
+&lt;h2 id=&#34;多重积分&#34;&gt;多重积分
+&lt;/h2&gt;&lt;p&gt;多重积分用于计算平面区域或空间区域上的累积量。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

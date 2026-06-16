@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>单变量微积分 on uuzyang</title>
+        <link>https://uuzyang.github.io/categories/%E5%8D%95%E5%8F%98%E9%87%8F%E5%BE%AE%E7%A7%AF%E5%88%86/</link>
+        <description>Recent content in 单变量微积分 on uuzyang</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>uuzyang.</copyright>
+        <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E5%8D%95%E5%8F%98%E9%87%8F%E5%BE%AE%E7%A7%AF%E5%88%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>单变量微积分入门</title>
+        <link>https://uuzyang.github.io/p/single-variable-calculus/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/single-variable-calculus/</guid>
+        <description>&lt;img src="https://uuzyang.github.io/p/single-variable-calculus/4.png" alt="Featured image of post 单变量微积分入门" /&gt;&lt;p&gt;单变量微积分研究一元函数的变化与累积。导数刻画局部变化率，积分刻画整体累积量。&lt;/p&gt;
+&lt;h2 id=&#34;导数&#34;&gt;导数
+&lt;/h2&gt;&lt;p&gt;导数可以理解为函数在某一点附近的瞬时变化趋势。&lt;/p&gt;
+&lt;h2 id=&#34;积分&#34;&gt;积分
+&lt;/h2&gt;&lt;p&gt;积分可以理解为把很多微小的量累加起来。&lt;/p&gt;
+&lt;h2 id=&#34;基本定理&#34;&gt;基本定理
+&lt;/h2&gt;&lt;p&gt;微积分基本定理连接了导数和积分，使“变化率”和“累积量”成为同一套语言中的两个方向。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

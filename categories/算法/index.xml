@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>算法 on uuzyang</title>
+        <link>https://uuzyang.github.io/categories/%E7%AE%97%E6%B3%95/</link>
+        <description>Recent content in 算法 on uuzyang</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>uuzyang.</copyright>
+        <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>搜索</title>
+        <link>https://uuzyang.github.io/p/search/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/search/</guid>
+        <description>&lt;p&gt;搜索是一类用来枚举状态空间的基础方法。图论题里最常见的是 DFS 和 BFS。&lt;/p&gt;
+&lt;h2 id=&#34;dfs&#34;&gt;DFS
+&lt;/h2&gt;&lt;p&gt;DFS 会沿着一条路径尽可能深入，适合处理连通块、拓扑关系、回溯枚举等问题。&lt;/p&gt;
+&lt;h2 id=&#34;bfs&#34;&gt;BFS
+&lt;/h2&gt;&lt;p&gt;BFS 按层扩展，天然适合无权图最短路。&lt;/p&gt;
+&lt;h2 id=&#34;建模重点&#34;&gt;建模重点
+&lt;/h2&gt;&lt;p&gt;搜索题真正难的地方通常不是模板，而是状态设计：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;当前状态包含哪些变量。&lt;/li&gt;
+&lt;li&gt;如何判断状态已经访问过。&lt;/li&gt;
+&lt;li&gt;每一步可以转移到哪些新状态。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>最小生成树</title>
+        <link>https://uuzyang.github.io/p/minimum-spanning-tree/</link>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/minimum-spanning-tree/</guid>
+        <description>&lt;p&gt;最小生成树用于在一个连通无向带权图中，选择若干条边连接所有点，并让边权总和最小。&lt;/p&gt;
+&lt;h2 id=&#34;kruskal&#34;&gt;Kruskal
+&lt;/h2&gt;&lt;p&gt;Kruskal 按边权从小到大枚举边，用并查集判断当前边是否会形成环。&lt;/p&gt;
+&lt;p&gt;适合边比较少、容易排序边集的场景。&lt;/p&gt;
+&lt;h2 id=&#34;prim&#34;&gt;Prim
+&lt;/h2&gt;&lt;p&gt;Prim 从一个点开始，每次选择连接当前点集和外部点集的最小边。&lt;/p&gt;
+&lt;p&gt;适合稠密图，也常和优先队列一起使用。&lt;/p&gt;
+&lt;h2 id=&#34;常见注意点&#34;&gt;常见注意点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;图不连通时不存在完整的最小生成树。&lt;/li&gt;
+&lt;li&gt;Kruskal 需要在加入 &lt;code&gt;n - 1&lt;/code&gt; 条边后停止。&lt;/li&gt;
+&lt;li&gt;边权可能为负，但算法仍然成立。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
