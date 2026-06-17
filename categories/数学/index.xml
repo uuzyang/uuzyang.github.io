@@ -8,21 +8,6 @@
         <language>zh-cn</language>
         <copyright>uuzyang.</copyright>
         <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>单变量微积分入门</title>
-        <link>https://uuzyang.github.io/p/single-variable-calculus/</link>
-        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-        
-        <guid>https://uuzyang.github.io/p/single-variable-calculus/</guid>
-        <description>&lt;img src="https://uuzyang.github.io/p/single-variable-calculus/4.png" alt="Featured image of post 单变量微积分入门" /&gt;&lt;p&gt;单变量微积分研究一元函数的变化与累积。导数刻画局部变化率，积分刻画整体累积量。&lt;/p&gt;
-&lt;h2 id=&#34;导数&#34;&gt;导数
-&lt;/h2&gt;&lt;p&gt;导数可以理解为函数在某一点附近的瞬时变化趋势。&lt;/p&gt;
-&lt;h2 id=&#34;积分&#34;&gt;积分
-&lt;/h2&gt;&lt;p&gt;积分可以理解为把很多微小的量累加起来。&lt;/p&gt;
-&lt;h2 id=&#34;基本定理&#34;&gt;基本定理
-&lt;/h2&gt;&lt;p&gt;微积分基本定理连接了导数和积分，使“变化率”和“累积量”成为同一套语言中的两个方向。&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>多变量微积分入门</title>
         <link>https://uuzyang.github.io/p/multivariable-calculus/</link>
         <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
@@ -95,6 +80,21 @@
 &lt;/h2&gt;&lt;p&gt;矩阵可以表示线性变换，也可以表示方程组的系数。&lt;/p&gt;
 &lt;h2 id=&#34;特征值&#34;&gt;特征值
 &lt;/h2&gt;&lt;p&gt;特征值描述一个线性变换在特殊方向上的缩放效果。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>单变量微积分入门</title>
+        <link>https://uuzyang.github.io/p/single-variable-calculus/</link>
+        <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://uuzyang.github.io/p/single-variable-calculus/</guid>
+        <description>&lt;p&gt;单变量微积分研究一元函数的变化与累积。导数刻画局部变化率，积分刻画整体累积量。&lt;/p&gt;
+&lt;h2 id=&#34;导数&#34;&gt;导数
+&lt;/h2&gt;&lt;p&gt;导数可以理解为函数在某一点附近的瞬时变化趋势。&lt;/p&gt;
+&lt;h2 id=&#34;积分&#34;&gt;积分
+&lt;/h2&gt;&lt;p&gt;积分可以理解为把很多微小的量累加起来。&lt;/p&gt;
+&lt;h2 id=&#34;基本定理&#34;&gt;基本定理
+&lt;/h2&gt;&lt;p&gt;微积分基本定理连接了导数和积分，使“变化率”和“累积量”成为同一套语言中的两个方向。&lt;/p&gt;
 </description>
         </item>
         

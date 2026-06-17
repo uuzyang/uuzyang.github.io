@@ -7,13 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>uuzyang.</copyright>
-        <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E5%8D%95%E5%8F%98%E9%87%8F%E5%BE%AE%E7%A7%AF%E5%88%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uuzyang.github.io/categories/%E5%8D%95%E5%8F%98%E9%87%8F%E5%BE%AE%E7%A7%AF%E5%88%86/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>单变量微积分入门</title>
         <link>https://uuzyang.github.io/p/single-variable-calculus/</link>
-        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
         
         <guid>https://uuzyang.github.io/p/single-variable-calculus/</guid>
-        <description>&lt;img src="https://uuzyang.github.io/p/single-variable-calculus/4.png" alt="Featured image of post 单变量微积分入门" /&gt;&lt;p&gt;单变量微积分研究一元函数的变化与累积。导数刻画局部变化率，积分刻画整体累积量。&lt;/p&gt;
+        <description>&lt;p&gt;单变量微积分研究一元函数的变化与累积。导数刻画局部变化率，积分刻画整体累积量。&lt;/p&gt;
 &lt;h2 id=&#34;导数&#34;&gt;导数
 &lt;/h2&gt;&lt;p&gt;导数可以理解为函数在某一点附近的瞬时变化趋势。&lt;/p&gt;
 &lt;h2 id=&#34;积分&#34;&gt;积分
